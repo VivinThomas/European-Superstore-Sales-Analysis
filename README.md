@@ -16,9 +16,9 @@ The dataset contains information about European sales, including sales by month,
    - Created an elegant European Sales Dashboard with a minimalist approach.
    - The dashboard includes the following visualizations:
 
-   - **Sales Trend by Month**: Displayed the trend of sales over time using a line graph with markers.
-   - **Sales by Product Visualization**: Illustrated sales by product and added an average marker line to distinguish products below and above average.
-   - **Sales by Country Map Visualization**: Visualized sales by country on a map for easy geographical analysis.
+      - **Sales Trend by Month**: Displayed the trend of sales over time using a line graph with markers.
+      - **Sales by Product Visualization**: Illustrated sales by product and added an average marker line to distinguish products below and above average.
+      - **Sales by Country Map Visualization**: Visualized sales by country on a map for easy geographical analysis.
 
 3. **Key Performance Indicators (KPIs)**:
    - Two KPIs were added to provide a quick overview of sales and profit.
